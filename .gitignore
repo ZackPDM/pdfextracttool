@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Flask
+instance/
+.webassets-cache
+
+# App specific
+uploads/
+outputs/
+extracted_images/
+extracted_images_temp/
+*.pdf
+*.zip
